@@ -5,8 +5,7 @@ coding: utf-8
 Домашнее задание по теме "Введение в потоки".
 """
 
-
-import time,datetime , threading
+import time, datetime, threading
 
 
 def write_words(word_count, file_name):
